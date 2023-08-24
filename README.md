@@ -23,7 +23,7 @@ Welcome to the Currency Converter! This program provides a convenient way to con
 5. Start the Currency Converter by running the following command:
 
    ```sh
-   tsc currencyConverter.ts && node currencyConverter.ts
+   tsc currencyConverter.ts && node currencyConverter.js
    ```
 
 6. Follow the prompts to enter the amount, source currency code, and target currency code.
